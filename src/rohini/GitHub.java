@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterTest;
 
 public class GitHub {
-	WebDriver driver;
+	WebDriver gitdriver;
   @Test
   public void f() {
   }
